@@ -24,6 +24,13 @@
     word-wrap: break-word;
 }
 
+.section-title{
+    color: #131313;
+    font-size: 2.8rem;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
 /* Header styles */
 header{
     background-color: #FF900E1A;
@@ -34,13 +41,6 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.nav-title{
-    color: #131313;
-    font-size: 2.8rem;
-    font-weight: 700;
-    word-wrap: break-word;
 }
 
 nav > ul{
